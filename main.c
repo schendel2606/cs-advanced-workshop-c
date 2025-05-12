@@ -1,8 +1,8 @@
 /*
-	Assigned by:
-	Niv Schendel #322698184
-	NULL #0
+    Author: Niv Schendel
+    Part of academic coursework – HIT, Advanced Workshop in CS
 */
+
 
 #define _CRT_SECURE_NO_WARNINGS
 
